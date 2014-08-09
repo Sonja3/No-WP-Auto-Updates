@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: No-WP-Auto-Updates
- * Plugin URI: http://ran.ge/
+ * Plugin URI: http://zosi.me/
  * Description: Disables background updates 
  * Version: 0.1.0
  * Author: Sonja London
